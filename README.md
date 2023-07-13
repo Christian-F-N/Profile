@@ -10,12 +10,12 @@ This documentation provides the necessary steps to create a portfolio using Reac
 
 1. **Create React Project**: Open the terminal and run the following command to create a new React project:
 
-**npx create-react-app portfolio**
+** npx create-react-app portfolio **
 
 
 2. **Project Setup**: Access the created project directory:
 
-**cd portfolio**
+``cd portfolio``
 
 
 3. **Install Libraries**: Install the necessary libraries for email functionality. Some popular options include `nodemailer` for sending emails and `react-hook-form` for handling the contact form. Run the following commands:
