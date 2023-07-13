@@ -10,7 +10,7 @@ This documentation provides the necessary steps to create a portfolio using Reac
 
 1. **Create React Project**: Open the terminal and run the following command to create a new React project:
 
-** npx create-react-app portfolio **
+``npx create-react-app portfolio``
 
 
 2. **Project Setup**: Access the created project directory:
@@ -20,8 +20,8 @@ This documentation provides the necessary steps to create a portfolio using Reac
 
 3. **Install Libraries**: Install the necessary libraries for email functionality. Some popular options include `nodemailer` for sending emails and `react-hook-form` for handling the contact form. Run the following commands:
 
-npm install nodemailer
-npm install react-hook-form
+``npm install nodemailer``
+``npm install react-hook-form``
 
 
 4. **Design and Structure the Portfolio**: Design and create the structure of your portfolio using React components. Organize your files and folders appropriately for better code readability and maintenance.
@@ -42,12 +42,12 @@ npm install react-hook-form
 
 - To run the project in development mode, use the following command:
 
-npm start
+``npm start``
 
 
 - To build an optimized production-ready version of the project, use the following command:
 
-npm run build
+``npm run build``
 
 
 - To deploy the project to a web hosting server, follow the instructions provided by the hosting provider.
